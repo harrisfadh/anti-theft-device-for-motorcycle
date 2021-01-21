@@ -1,2 +1,2 @@
 # anti-theft-device-for-motorcycle
-A source code for SecureBoss: Anti-Theft Device for Motorcycle
+This is the source code for my IoT project entitled SecureBoss: Anti-Theft Device for Motorcycle
